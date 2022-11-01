@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcatsmanias.blogspot.com%2F2021%2F01%2Fcat-typing-gif-meme.html&psig=AOvVaw0ApqUdi_hmvMbYYSJVLh_y&ust=1667408534091000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKj2nIC7jfsCFQAAAAAdAAAAABAI">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansh162&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh162" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivansh162" alt="shivansh162" /></a> </p>
