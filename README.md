@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **a Data Science Project**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **shivanshsharma162@gmail.com**
 
