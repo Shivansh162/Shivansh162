@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,Java**
+- 🌱 I’m currently learning **Data Analytics, Data Science**
 
 - 👯 I’m looking to collaborate on **a Data Science Project**
 
